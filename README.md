@@ -2,6 +2,12 @@
 
 https://pragmaticstudio.com/courses/phoenix-liveview 教程示例代码。
 
+## Preview
+
+你可以在 issue 中快速预览相关示例(label: demo)
+
+[Click here to view demos](https://github.com/rovast/live_view_studio/issues?q=label%3Ademo+)
+
 ## Start
 
 1. Install dependencies with `mix deps.get`
